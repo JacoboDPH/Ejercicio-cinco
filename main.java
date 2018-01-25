@@ -17,7 +17,7 @@ public class main {
 		int intentos = 0;
 		Scanner teclado = new Scanner(System.in);
 		
-		System.out.println("El número es "+ramdom);
+		
 		
 		do {
 			
